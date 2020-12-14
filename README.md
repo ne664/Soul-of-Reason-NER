@@ -6,7 +6,7 @@
 `2) Running the Jupyter Notebook: 'SOR_JUPYTER.ipynb'` <br>
 `3) Using the streamlit app: 'app.py'` <br>
 
-`**Implementation instructions for each of these options is contained in the SOR_DEMO.ipynb file.**`
+` ** Implementation instructions for each of these options is contained in the SOR_DEMO.ipynb file. ** `
 
 ### Before implementing any of the above, ensure that you have installed the package requirements by doing the following:
 
