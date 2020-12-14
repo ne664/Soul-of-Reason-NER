@@ -6,6 +6,8 @@
 `2) Running the Jupyter Notebook: 'SOR_DEMO.ipynb'` <br>
 `3) Using the streamlit app: 'app.py'` <br>
 
+`Implementation instructions for each of these options is contained in the SOR_DEMO.ipynb file.`
+
 ### Before implementing any of the above, ensure that you have installed the package requirements by doing the following:
 
 1) Clone this repository to your local machine
@@ -25,13 +27,15 @@ The script will then create the final dataset, download the csv & json files to 
 `See the section entitled "Demo: Running the Script" in the SOR_DEMO file for complete instructions and an example.`
 
 
-### 2) Using Jupyter notebook (SOR_DEMO.ipynb):
+### 2) Using Jupyter notebook (SOR_JUPYTER.ipynb):
 
 1) Import the required packages
 2) Run the NER class
 3) Instantiate class 
 4) Follow the instructions in SOR_DEMO.ipynb on running each function
   - Note that you will need to replace the example folder & file paths with your speficic file locations
+  
+`See the section entitled "Demo: Using the Jupyter Notebook" in the SOR_DEMO file for complete instructions and an example.`
   
 ### 3) Using the streamlit app (app.py)
 
