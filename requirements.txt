@@ -3,7 +3,7 @@ iteration-utilities
 Ipython
 mkl-random
 more-itertools
-pandas==0.24.2
+pandas
 path.py==12.0.1
 pathlib2==2.3.4
 pathtools==0.1.2
