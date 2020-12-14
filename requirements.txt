@@ -1,5 +1,6 @@
 glob2
 iteration-utilities
+Ipython
 mkl-random
 more-itertools
 pandas==0.24.2
