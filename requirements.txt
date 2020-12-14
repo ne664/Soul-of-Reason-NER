@@ -1,6 +1,6 @@
 glob2
 iteration-utilities
-Ipython
+ipython
 mkl-random
 more-itertools
 pandas
