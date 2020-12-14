@@ -1,0 +1,11 @@
+glob2
+iteration-utilities
+mkl-random
+more-itertools
+pandas==0.24.2
+path.py==12.0.1
+pathlib2==2.3.4
+pathtools==0.1.2
+regex
+spacy==2.3.2
+tqdm==4.50.2
